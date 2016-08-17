@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2191489
 color:
   saturation: 0.4787234
   brandStrength: 0.5501939
@@ -22,5 +21,6 @@ color:
     - '#A29F96'
     - '#939395'
   lightness: 1
-layout_spectrum: 0.2382979
+typography_spectrum: 0.2191489
+layout_spectrum: 1
 name: Metaspace
