@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4787234
+  saturation: 0.4808511
   brandStrength: 0.5501939
-  rhythmicContrast: 0.8381765
+  lightness: 1
   brandColors:
     - '#AEACA0'
     - '#DBDCE1'
     - '#C8C9CD'
     - '#A29F96'
     - '#939395'
-  lightness: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.2191489
-layout_spectrum: 1
+layout_spectrum: 0
 name: Metaspace
