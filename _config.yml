@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.2191489
 color:
   saturation: 0.4787234
-  lightness: 1
   brandStrength: 0.5501939
+  rhythmicContrast: 0.8381765
   brandColors:
     - '#AEACA0'
     - '#DBDCE1'
     - '#C8C9CD'
     - '#A29F96'
     - '#939395'
-  rhythmicContrast: 0.8381765
+  lightness: 1
+layout_spectrum: 0.2382979
 name: Metaspace
